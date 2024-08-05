@@ -1,5 +1,7 @@
 # Treemap
 
+Treemap is a project developed to visualize stock market data in a treemap format, similar to the maps used in financial markets. This application leverages D3.js for dynamic and interactive data visualizations, providing users with an intuitive understanding of market performance.
+
 ## Technologies Used
 
 - **Laravel**: PHP framework for backend development.
